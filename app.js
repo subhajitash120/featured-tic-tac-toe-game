@@ -62,7 +62,7 @@ function myfunc() {
 		b2btn.disabled = true;
 		b3btn.disabled = true;
 		b5btn.disabled = true;
-		b6btn.disabled = true2
+		b6btn.disabled = true;
 		b8btn.disabled = true;
 		b9btn.disabled = true;
 
